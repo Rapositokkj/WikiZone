@@ -1,4 +1,5 @@
-# WikiZone
+# WikiZone | _*🚧 Em desenvolvimento 🚧*_
+
 
 Projeto criado para estudar e aprimorar minhas habilidades em HTML e CSS.
 
@@ -23,4 +24,4 @@ Meu objetivo com esse projeto é praticar:
 - CSS
 
 ## Status do projeto
-🚧 Em desenvolvimento
+
