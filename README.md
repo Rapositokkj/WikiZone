@@ -25,3 +25,4 @@ Meu objetivo com esse projeto é praticar:
 
 ## Status do projeto
 
+#🚧 Em desenvolvimento 🚧
